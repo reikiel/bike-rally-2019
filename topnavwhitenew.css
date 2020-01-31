@@ -1,0 +1,215 @@
+@font-face{
+  font-family: "sablon";
+  src: url("fonts/Sablon_Up_Regular.otf");
+}
+
+@font-face{
+  font-family: "gobold";
+  src: url("fonts/Gobold Regular.otf");
+}
+
+@font-face{
+  font-family: "bebaskai";
+  src: url("fonts/BebasKai.ttf");
+}
+
+@font-face{
+  font-family: "robotobi";
+  src: url("fonts/Roboto-BoldItalic.ttf");
+}
+@font-face{
+  font-family: "robotob";
+  src: url("fonts/Roboto-Bold.ttf");
+}
+
+@font-face{
+  font-family: "roboto";
+  src: url("fonts/Roboto-Regular.ttf");
+}
+
+@font-face{
+  font-family: "robotomi";
+  src: url("fonts/Roboto-MediumItalic.ttf");
+}
+
+@font-face{
+  font-family: "robotom";
+  src: url("fonts/Roboto-Medium.ttf");
+}
+
+@font-face{
+  font-family: "robotol";
+  src: url("fonts/Roboto-Light.ttf");
+}
+
+@font-face{
+  font-family: "pierr";
+  src: url("fonts/PierSans-Regular.otf");
+}
+
+@font-face {
+    font-family: "breamcatcher";
+    src: url("fonts/breamcatcher.ttf");}
+
+@font-face {
+    font-family: "herol";
+    src: url("fonts/Hero Light.otf");}
+
+@font-face {
+    font-family: "hero";
+    src: url("fonts/Hero.otf");}
+
+@font-face{
+  font-family: "simplifica";
+  src: url("fonts/SIMPLIFICA Typeface.ttf");
+}
+
+@font-face {
+    font-family: "lobster";
+    src: url("fonts/lobster.otf");}
+
+@font-face {
+    font-family: "lobsterr";
+    src: url("fonts/LobsterTwo-Regular.otf");}
+
+@font-face {
+    font-family: "bebas";
+    src: url("fonts/BebasNeue Regular.otf");}
+
+@font-face{
+  font-family: "gibson";
+  src: url("fonts/gibson-regular.ttf");
+}
+
+@font-face{
+  font-family: "hemi head";
+  src: url("fonts/hemi head bd it.ttf");
+}
+
+@font-face{
+  font-family: "streetwear";
+  src: url("fonts/Streetwear.otf");
+}
+
+@font-face{
+  font-family: "leaguegothic";
+  src: url("fonts/league-gothic-regular.ttf");
+}
+
+@font-face{
+  font-family: "trajan";
+  src: url("fonts/TrajanPro-Bold.otf");
+}
+
+@font-face{
+  font-family: "fertigo";
+  src: url("fonts/Fertigo_PRO.otf");
+}
+
+@font-face{
+  font-family: "gnuolane";
+  src: url("fonts/gnuolane rg.ttf");
+}
+
+
+
+.bgnav{background-color:rgba(0,0,0,0.7);
+       height:100px; }
+
+.bgnav1{background-color:rgba(0,0,0,1);
+       height:100px; }
+
+.bgnavcontactus{background-color:rgba(0,0,0,1);
+       height:100px; }
+
+.navbarleft{width:45%;
+      float:left;
+      margin-top:35px;
+      text-align:right;}
+
+.navbarlogo{width:10%;
+      float:left;
+      margin-top: 15px;
+      text-align:center;
+        }
+
+.navbarright{width:45%;
+       float:left;
+       margin-top:35px;
+       text-align:left; }
+
+.topnav{position:sticky;}
+
+.topnav a{
+          color:white;
+
+          text-decoration:none;
+          font-family: "robotom", sans-serif;
+          font-size:16px;
+
+        }
+.topnav a:hover{background-color:none;
+                color:#039b3d;}
+
+.topnav a.active{background-color:none;
+                 color:#039b3d;}
+
+
+.topnav1{display:flex;
+        overflow:hidden;
+        background-color:rgba(0,0,0,0);
+        align-items:center;
+        justify-content: center;
+        position:relative;
+        top:0px;
+
+        }
+.topnav1 a{
+          color:white;
+          text-align:center;
+          padding:14px 60px;
+          text-decoration:none;
+          font-family: "robotom", sans-serif;
+          font-size:20px;
+        }
+.topnav1 a:hover{background-color:none;
+                color:#039b3d;}
+.topnav1 a.active{background-color:none;
+                 color:#039b3d;}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+@media screen and (max-width:1130px)
+
+{
+
+.topnav{display:none;}
+
+.bgnav1{display: none;}
+
+
+
+.navbarlogo {float:right;}
+
+
+.navbarleft {display:none;}
+
+.navbarright{display:none; }
+
+
+
+}
+*/
+
+

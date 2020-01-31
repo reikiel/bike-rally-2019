@@ -1,0 +1,38 @@
+@font-face{
+  font-family: "robotobi";
+  src: url("fonts/Roboto-BoldItalic.ttf");
+}
+
+@font-face{
+  font-family: "robotomi";
+  src: url("fonts/Roboto-MediumItalic.ttf");
+}
+
+@font-face{
+  font-family: "robotom";
+  src: url("fonts/Roboto-Medium.ttf");
+}
+
+@font-face{
+  font-family: "robotol";
+  src: url("fonts/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: "breamcatcher";
+    src: url("fonts/breamcatcher.ttf");}
+
+@font-face{
+  font-family: "gibson-regular";
+  src: url("fonts/gibson-regular.ttf");
+}
+
+@font-face{
+  font-family: "hemi head";
+  src: url("fonts/hemi head bd it.ttf");
+}
+
+@font-face{
+  font-family: "streetwear";
+  src: url("Streetwear.otf");
+}
